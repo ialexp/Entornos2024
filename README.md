@@ -6,6 +6,7 @@
 ###### Encabezado 6
 **Texto en Negrita**
 
+
 *Texto en Cursiva*
 
 'ls -la'
